@@ -1,0 +1,15 @@
+D:\vs代码\detect\detect\obj\Debug\detect.csproj.AssemblyReference.cache
+D:\vs代码\detect\detect\obj\Debug\YourNamespace.Form1.resources
+D:\vs代码\detect\detect\obj\Debug\detect.Properties.Resources.resources
+D:\vs代码\detect\detect\obj\Debug\detect.csproj.GenerateResource.cache
+D:\vs代码\detect\detect\obj\Debug\detect.csproj.CoreCompileInputs.cache
+D:\vs代码\detect\detect\bin\Debug\detect.exe.config
+D:\vs代码\detect\detect\bin\Debug\detect.exe
+D:\vs代码\detect\detect\bin\Debug\detect.pdb
+D:\vs代码\detect\detect\bin\Debug\halcondotnet.dll
+D:\vs代码\detect\detect\bin\Debug\halcondotnet.xml
+D:\vs代码\detect\detect\obj\Debug\detect.csproj.Up2Date
+D:\vs代码\detect\detect\obj\Debug\detect.exe
+D:\vs代码\detect\detect\obj\Debug\detect.pdb
+D:\vs代码\detect\detect\obj\Debug\detect.exe.config
+D:\vs代码\detect\detect\obj\Debug\YourNamespace.BlobParamForm.resources
